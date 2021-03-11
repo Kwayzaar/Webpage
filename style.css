@@ -55,6 +55,7 @@ body {
 
 /* Navbar creation */
 .navlinks {	
+	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
 	width: 100%;	
