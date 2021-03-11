@@ -50,14 +50,18 @@ table {
 /* code start */
 
 body {
-	background-color: darkgray; 
+	background-color: black; 
+	;
 }
 
 /* Navbar creation */
-.navlinks {	
+div.navbar {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+}
+
+.navlinks {	
 	width: 100%;	
 	list-style-type: none;
 	margin: 0;
